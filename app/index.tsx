@@ -23,3 +23,4 @@ const styles = StyleSheet.create({
 })
 
 // Vidéo 31:55
+// Vidéo de maintenant 32:55
