@@ -22,3 +22,4 @@ const styles = StyleSheet.create({
 
 })
 
+// Vidéo 31:55
